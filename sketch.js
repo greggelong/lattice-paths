@@ -108,7 +108,7 @@ function* turtle(){
 
 
 
-/// code from
+/// permutation code from github.com/noamsaurutley/string-permutations
 let findPermutations = (string) => {
   if (!string || typeof string !== "string"){
     return "Please enter a string"
