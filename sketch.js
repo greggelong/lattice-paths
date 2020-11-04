@@ -87,7 +87,7 @@ function* turtle(){
     switch (current) {
      
         
-       case "L":
+       case "R":
        	ball.x+=sz;
        	rect(ball.x,ball.y,sz,sz);
         //yield
