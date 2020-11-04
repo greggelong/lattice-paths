@@ -8,4 +8,6 @@ Help with permutation algorithm from
  
 https://github.com/noamsaurutley/string-permutations
 
-https://greggelong.github.io/lattice-paths/
+
+
+[see it live](https://greggelong.github.io/lattice-paths/)
